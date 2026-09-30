@@ -1,0 +1,6 @@
+{
+  "name": "Genomics Sequencing Workflow Management System",
+  "description": "Comprehensive genomics laboratory workflow management system tracking samples end-to-end from sequencing request through QC, sequencing, bioinformatics analysis, and report approval.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
